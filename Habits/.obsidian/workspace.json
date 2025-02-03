@@ -4,22 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "224f522f7b625264",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "d14e6509927ee1a4",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          }
-        ]
-      },
-      {
         "id": "c0352b9f0d01a387",
         "type": "tabs",
         "children": [
@@ -177,7 +161,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d14e6509927ee1a4",
+  "active": "5b0ad62fdec102af",
   "lastOpenFiles": [
     "More time on assignments ahead of time.md",
     "Planning Events.md",
