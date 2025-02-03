@@ -1,0 +1,1 @@
+Go in settings and put screen time limits on certain apps

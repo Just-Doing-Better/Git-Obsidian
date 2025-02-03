@@ -1,0 +1,1 @@
+Split the work into days, make myself feel as if each of the segments wanted are done on the day to give more time overall.

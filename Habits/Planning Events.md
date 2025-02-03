@@ -1,0 +1,1 @@
+Get out more, enjoy life. dont be a bum even if roommates are.
